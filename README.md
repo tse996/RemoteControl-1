@@ -17,6 +17,9 @@
 目标主机：Windows 10, Python 3.9.0
 
 ## 3. 使用方法
+
+完整的报告请参考我的[这篇博客](https://littlecu.cn/archives/119)。
+
 目标主机（最好为windows，linux下功能不完全）：
 
 将server目录复制到目的主机，使用Python运行main.py
