@@ -18,7 +18,7 @@
 
 ## 3. 使用方法
 
-完整的报告请参考我的[这篇博客](https://litcu.cn/posts/8ae4dc56/)。
+完整的报告请参考我的[这篇博客](https://www.litcu.cn/archives/12)。
 
 目标主机（最好为windows，linux下功能不完全）：
 
